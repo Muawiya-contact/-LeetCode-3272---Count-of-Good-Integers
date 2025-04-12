@@ -45,12 +45,12 @@ An integer is called **good** if its digits can be **rearranged** to form a **k-
 
 ---
 
-## 📦 How to Run
++ ## 📦 How to Run
 
 ```bash
 python solution.py
 ```
-# 🎬 Follow Us
-## 📺 Coding Moves
-## 🎓 Helping You Move Smart in Code
-## 🔗 YouTube.com/@Coding_Moves
+## 🎬 Follow Us
+### 📺 Coding Moves
+### 🎓 Helping You Move Smart in Code
+### 🔗 YouTube.com/@Coding_Moves
